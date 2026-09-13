@@ -19,7 +19,7 @@ A lightweight Telegram support/contact bot built with **Python** and **Telethon*
 ## ⚙️ Configuration & Credentials
 Open `main.py` (lines 8–11) to configure your credentials directly:
 - **API_ID & API_HASH:** Obtain from the [Telegram API Development Tools Portal](https://telegram.org).
-- **BOT_TOKEN:** Create a bot via [@BotFather](https://t.me).
-- **ADMIN_USER_ID:** Get your numeric ID from [@userinfobot](https://t.me).
+- **BOT_TOKEN:** Create a bot via [@BotFather](https://t.me/BotFather).
+- **ADMIN_USER_ID:** Get your numeric ID from [@userinfobot](https://t.me/userinfobot).
 
 Run the bot with `python main.py`. Full license details are available via the [MIT License](LICENSE).
